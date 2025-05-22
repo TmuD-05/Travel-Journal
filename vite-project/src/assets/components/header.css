@@ -1,0 +1,23 @@
+.header-body{
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    gap: 10px;
+}
+/* to make sure that the text is aligned with the image  */
+p{
+    align-content: center;  
+}
+.nav-img{
+    width:50px;
+    height: 50px;
+}
+main{
+    
+    background: red;
+}
+/* to remove any padding in default css */
+*{
+    margin: 0;
+    padding: 0;
+}
